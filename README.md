@@ -88,7 +88,7 @@ Data Modeling & Relationships
 
 (Add your dashboard screenshot here)
 
-![Dashboard Preview](dashboard.png)
+[https://github.com/KarunaSingh259/Power_BI/blob/main/Screenshot%202025-12-07%20161826.png](dashboard.png)
 
 # 📈 Insights Derived
 
