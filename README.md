@@ -66,30 +66,6 @@ Bar Chart, Pie Chart, Donut Chart, Clustered Bar, Line Chart, Area Chart, Map, S
 
 Enabled user-driven parameters to manipulate visuals dynamically.
 
-# 📁 Files Included
-
-Power BI Dashboard (.pbix)
-
-Dataset (.xlsx or .csv)
-
-README.md (this file)
-
-🛠️ Tools & Technologies
-
-Microsoft Power BI
-
-Power Query for ETL
-
-DAX (Data Analysis Expressions)
-
-Data Modeling & Relationships
-
-# 🖼️ Dashboard Preview
-
-(Add your dashboard screenshot here)
-
-[https://github.com/KarunaSingh259/Power_BI/blob/main/Screenshot%202025-12-07%20161826.png](dashboard.png)
-
 # 📈 Insights Derived
 
 Clothing category contributes the highest quantity share (63%).
